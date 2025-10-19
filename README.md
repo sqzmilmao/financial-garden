@@ -24,10 +24,6 @@ A charitable giving feature that tracks consecutive days of donations (strike sy
 ### Reward Coupons
 Users earn coupons by maintaining positive financial behaviors. These coupons can be redeemed for real-world benefits and discounts, creating tangible incentives for good financial habits.
 
-## Workflow
-
-The main codebase is available at: https://github.com/sqzmilmao/financial-garden
-
 ## Team
 
 - Aiziya Paizulla
@@ -45,7 +41,7 @@ The main codebase is available at: https://github.com/sqzmilmao/financial-garden
 
 ## Project Goals
 
-The platform addresses key challenges in youth financial education by making learning interactive and rewarding. It aims to increase financial literacy, encourage responsible spending and saving, promote charitable giving, and establish long-term positive financial habits.
+The platform addresses key challenges in financial education by making learning interactive and rewarding. It aims to increase financial literacy, encourage responsible spending and saving, promote charitable giving, and establish long-term positive financial habits.
 
 ## Development
 
